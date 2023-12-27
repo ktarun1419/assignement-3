@@ -8,4 +8,4 @@ i have used this also as a hook because this was used twice in the component and
 ## Components 
 rest i have also changed the UI into further components to stable divide the code into fragments
 ## FYI
-there may be errors because for testing there was no time and i can assure you i can create better than this with woring model
+there may be errors because for testing there was no time and i can assure you i can create better than this with working model and will also put validations to prone from the errors
